@@ -16,3 +16,6 @@ Welcome to my academic portfolio for CEP146V1A]!
 
 ## Projects
 *This section will be updated as I complete assignments*
+"Great choice of course goals! You might also want to add a goal about learning markdown."
+"Consider adding a section about your favorite coding projects."
+"Nice formatting! The checklist format makes it easy to track progress."
